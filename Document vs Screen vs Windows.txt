@@ -1,0 +1,14 @@
+Document Object:
+#Each HTML document that gets loaded into a window becomes a document object
+#The document contains the contents of the page
+#Using document object, JavaScript can modify, add and delete the HTML elements, attributes CSS styles in the page
+#Document object is property of window object that points to the DOM document loaded in that window.
+________________________________________
+Window object : 
+#It is the top most object and outermost element
+#The window object represents a window/tab containing a DOM document
+#Window is global object
+________________________________________
+Screen:
+Screen is a small information object about physical screen dimensions .
+It can be used to display screen width, height, colorDepth, pixelDepth etc.
