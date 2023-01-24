@@ -1,0 +1,11 @@
+var resume=
+{
+	"name":"Varsha",
+	"age":"21",
+	"phone":"9952571035",
+	"email":"cvarsha2002@gmail.com",
+	"education":"B.Tech.IT",
+	"projects":"Smart Solutions for Railways"
+
+
+}

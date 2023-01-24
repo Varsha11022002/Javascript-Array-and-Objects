@@ -1,0 +1,11 @@
+var student={
+"name":"John",
+"age":23,
+"address":"san fransico"
+}
+
+for( a in student)
+{
+	console.log(a,student[a])
+}
+
